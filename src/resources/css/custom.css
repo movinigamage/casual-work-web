@@ -1,0 +1,154 @@
+sup {
+    color: red;
+}
+
+.li-submenu {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.li-submenu-color {
+    color: white;
+    padding-left: 69px;
+}
+
+.bar-custom {
+    width: 100%!important;
+}
+
+.custom-progress {
+    height: 5px;
+}
+
+.custom-progress-bar-0 {
+    width: 0%;
+}
+
+.custom-progress-bar-10 {
+    width: 10%;
+}
+
+.custom-progress-bar-20 {
+    width: 20%;
+}
+
+.custom-progress-bar-30 {
+    width: 30%;
+}
+
+.custom-progress-bar-40 {
+    width: 40%;
+}
+
+.custom-progress-bar-50 {
+    width: 50%;
+}
+
+.custom-progress-bar-60 {
+    width: 60%;
+}
+
+.custom-progress-bar-70 {
+    width: 70%;
+}
+
+.custom-progress-bar-80 {
+    width: 80%;
+}
+
+.custom-progress-bar-90 {
+    width: 90%;
+}
+
+.custom-progress-bar-100 {
+    width: 100%;
+}
+
+.display {
+    display: block;
+}
+
+.display-none {
+    display: none;
+}
+
+.iframe-map {
+    border:0!important;
+}
+
+.h-menu-open {
+    left: 0px!important;
+}
+
+a.doc-link {
+    color: #2a4afc;
+}
+
+a.doc-link:hover {
+    color: #1b00ff;
+}
+
+.wrapping {
+    border: 1px rgb(209, 209, 209) solid;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.location-view {
+    height: 80px;
+}
+
+@keyframes spinner {
+    to {transform: rotate(360deg);}
+}
+
+.spinner:before {
+    content: '';
+    box-sizing: border-box;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 20px;
+    height: 20px;
+    margin-top: -10px;
+    margin-left: -10px;
+    border-radius: 50%;
+    border: 2px solid #ccc;
+    border-top-color: #333;
+    animation: spinner .6s linear infinite;
+}
+
+.profile-custom {
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+    border-radius: 50%!important;
+}
+
+.profile-custom-min {
+    height: 50px;
+    width: 50px;
+    object-fit: cover;
+    border-radius: 50%!important;
+}
+
+.feedback-images {
+    width: 150px;
+    height:150px;
+}
+
+.running-cursor {
+    cursor: pointer;
+}
+
+.running-job-email {
+    margin-bottom: 9px;
+}
+
+.map-block {
+    display: block;
+}
+
+.map-none {
+    display: none;
+}
