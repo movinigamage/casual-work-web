@@ -139,7 +139,7 @@ export function CompanyRegistration() {
       <>
           <div className="fix-menu">
               <section className="login d-flex">
-                  <div className="container">
+                     <div className="container overflow-auto">
                       <div className="row">
                           <div className="col-md-12">
                               <div className="register-card card-block auth-body mr-auto ml-auto">
